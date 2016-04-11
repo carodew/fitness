@@ -43,5 +43,9 @@ List of strength training exercises (by muscle group)
 - bicycles
 - Russian twists
 - plank 
+ - with shoulder taps
+ - with foot taps
  - side plank
+ - walking plank
+ - spider plank
 
