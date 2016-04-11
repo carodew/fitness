@@ -15,7 +15,7 @@ List of strength training exercises (by muscle group)
 
 - reverse fly (bent over, w/resistance band, w/weights) 
 - row 
-  - upright row
+ - upright row
  -  bent over row
 
 ### chest
@@ -31,7 +31,6 @@ List of strength training exercises (by muscle group)
  - kettle bell swings
 - dead lift
  - single leg dead lift (warrier 3)
- - 
 
 ## core
 - crunches
@@ -45,4 +44,4 @@ List of strength training exercises (by muscle group)
 - Russian twists
 - plank 
  - side plank
- - 
+
