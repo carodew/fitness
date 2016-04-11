@@ -33,7 +33,12 @@ List of strength training exercises (by muscle group)
  - single leg dead lift (warrier 3)
 
 ## core
+
+### abdominals
 - crunches
+ - legs lifted 90°
+ - diagonal
+ - boat pose
 - sit ups
 - cross extensions
 - reverse crunches
@@ -48,4 +53,8 @@ List of strength training exercises (by muscle group)
  - side plank
  - walking plank
  - spider plank
+ 
+#### back
+- superwomans
+- locust
 
