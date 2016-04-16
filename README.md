@@ -21,7 +21,10 @@ List of strength training exercises (by muscle group)
 ### chest
 - fly
 - bench press
-- push up
+- push up (also triceps!)
+ - side to side push up (descend close to one hand, then alternate)
+ - assisted one armed push up
+ - one armed push up
 
 ## lower body 
 - squats
